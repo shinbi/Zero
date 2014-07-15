@@ -1,0 +1,7 @@
+parameters:
+#    zero_zero.example.class: Zero\ZeroBundle\Example
+
+services:
+#    zero_zero.example:
+#        class: %zero_zero.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

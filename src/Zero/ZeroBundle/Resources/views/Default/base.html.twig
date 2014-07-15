@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>{% block title %}Zero{% endblock %}</title>
+    {% block css %}
+        {% include "ZeroZeroBundle:Default:page_head_style.html.twig" %}
+    {% endblock %}
+    {% block javascripts %}
+        {% include "ZeroZeroBundle:Default:page_head_script.html.twig" %}
+    {% endblock %}
+    <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" />
+</head>
+<body>
+{% block sidebar %}{% include "ZeroZeroBundle:Default:sidebar.html.twig" %}{% endblock %}
+{% block body %}{% endblock %}
+</body>
+</html>

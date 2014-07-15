@@ -1,0 +1,88 @@
+{% extends 'ZeroZeroBundle:Default:base.html.twig' %}
+
+{% block title %}Personnages : {{ personnage.getNom() }}){% endblock %}
+
+{% block sidebar %}{% include "ZeroZeroBundle:Default:sidebar.html.twig" %}{% endblock %}
+
+{% block body %}
+    <p>
+        <img src="{{ asset('bundles/zerozero/images/' ~ personnage.getId() ~ '.png') }}" />
+    </p>
+    <div id="profil_title"><h2>Profil</h2></div>
+    <div class="profil">
+        {% if personnage.nom is not empty %}
+            <strong>Nom :</strong> {{ personnage.nom }}<br />
+        {% endif %}
+        {% if personnage.prononciation is not empty %}
+            <strong>Prononciation :</strong> {{ personnage.prononciation }}<br />
+        {% endif %}
+        {% if personnage.signification is not empty %}
+            <strong>Signification :</strong> {{ personnage.signification }}<br />
+        {% endif %}
+        {% if personnage.age is not empty %}
+            <strong>Age :</strong> {{ personnage.age }}<br />
+        {% endif %}
+        {% if personnage.taille is not empty %}
+            <strong>Taille :</strong> {{ personnage.taille }}<br />
+        {% endif %}
+        {% if personnage.anniversaire is not empty %}
+            <strong>Anniversaire :</strong> {{ personnage.anniversaire }}<br />
+        {% endif %}
+    </div>
+    <div id="physique_title"><h2>Physique</h2></div>
+    <div class="physique">
+        {% if personnage.yeux is not empty %}
+            <strong>Yeux :</strong> {{ personnage.yeux }}<br />
+        {% endif %}
+        {% if personnage.cheveux is not empty %}
+            <strong>Cheveux :</strong> {{ personnage.cheveux }}<br />
+        {% endif %}
+        {% if personnage.poils is not empty %}
+            <strong>Poils :</strong> {{ personnage.poils }}<br />
+        {% endif %}
+    </div>
+    <div id="personnalite_title"><h2>Personnalité</h2></div>
+    <div class="personnalite">
+    {% if personnage.caractere is not empty %}
+        <strong>Caractère :</strong> {{ personnage.caractere }}<br />
+    {% endif %}
+    {% if personnage.qualites is not empty %}
+        <strong>Qualités :</strong> {{ personnage.qualites }}<br />
+    {% endif %}
+    {% if personnage.defauts is not empty %}
+        <strong>Défauts :</strong> {{ personnage.defauts }}<br />
+    {% endif %}
+    {% if personnage.ambitions is not empty %}
+        <strong>Ambitions :</strong> {{ personnage.ambitions }}<br />
+    {% endif %}
+    </div>
+    <div id="competences_title"><h2>Compétences</h2></div>
+    <div class="competences">
+    {% if personnage.statut is not empty %}
+        <strong>Statut :</strong> {{ personnage.statut }}<br />
+    {% endif %}
+    {% if personnage.getMatiereForte() is not empty %}
+        <strong>Matières fortes :</strong> {{ personnage.getMatiereForte() }}<br />
+    {% endif %}
+    {% if personnage.getMatiereAvecDesDifficultes() is not empty %}
+        <strong>Matières avec des difficultés :</strong> {{ personnage.getMatiereAvecDesDifficultes() }}<br />
+    {% endif %}
+    {% if personnage.aptitude is not empty %}
+        <strong>Aptitudes :</strong> {{ personnage.aptitude }}<br />
+    {% endif %}
+    </div>
+    <div id="histoire_title"> <h2>Histoire</h2></div>
+    <div class="histoire">
+    {% if personnage.histoire is not empty %}
+        <strong>Histoire :</strong> {{ personnage.histoire }}<br />
+    {% endif %}
+    </div>
+
+
+
+
+
+
+
+
+{% endblock %}

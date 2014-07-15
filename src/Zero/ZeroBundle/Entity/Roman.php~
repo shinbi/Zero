@@ -1,0 +1,44 @@
+<?php
+namespace Zero\ZeroBundle\Entity;
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * @ORM\Entity
+ * @ORM\Table(name="roman")
+ */
+
+class Roman
+{
+    /**
+     * @ORM\Id
+     * @ORM\Column(type="integer")
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    protected $id;
+
+    /**
+     * @ORM\Column(type="string", length=100)
+     */
+    protected $titre;
+
+    /**
+     * @ORM\Column(type="string", length=100)
+     */
+    protected $collection;
+
+    /**
+     * @ORM\Column(type="string", length=100)
+     */
+    protected $auteur;
+
+    /**
+     * @ORM\Column(type="string", length=255)
+     */
+    protected $resume;
+
+    /**
+     * @ORM\Column(type="string", length=100)
+     */
+    protected $pages;
+
+}
