@@ -1,0 +1,14 @@
+{% extends 'ZeroZeroBundle:Site:base.html.twig' %}
+
+{% block title %}Romans{% endblock %}
+
+{% block sidebar %}{% include "ZeroZeroBundle:Site:parts/sidebar.html.twig" %}{% endblock %}
+
+{% block body %}
+    <ul>
+        {% for book in books %}
+            {{ book.titre }}
+        {% endfor %}
+    </ul>
+
+{% endblock %}

@@ -137,25 +137,25 @@ class appDevUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirectab
 
         // zero_zero_homepage
         if ($pathinfo === '/index') {
-            return array (  '_controller' => 'Zero\\ZeroBundle\\Controller\\DefaultController::indexAction',  '_route' => 'zero_zero_homepage',);
+            return array (  '_controller' => 'Zero\\ZeroBundle\\Controller\\SiteController::indexAction',  '_route' => 'zero_zero_homepage',);
         }
 
         if (0 === strpos($pathinfo, '/character')) {
             // zero_zero_characters
             if ($pathinfo === '/characters') {
-                return array (  '_controller' => 'Zero\\ZeroBundle\\Controller\\DefaultController::charactersAction',  '_route' => 'zero_zero_characters',);
+                return array (  '_controller' => 'Zero\\ZeroBundle\\Controller\\SiteController::charactersAction',  '_route' => 'zero_zero_characters',);
             }
 
             // zero_zero_show_characters
             if (preg_match('#^/character/(?P<id>[^/]++)$#s', $pathinfo, $matches)) {
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'zero_zero_show_characters')), array (  '_controller' => 'Zero\\ZeroBundle\\Controller\\DefaultController::showCharacterAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'zero_zero_show_characters')), array (  '_controller' => 'Zero\\ZeroBundle\\Controller\\SiteController::showCharacterAction',));
             }
 
         }
 
         // zero_zero_books
         if ($pathinfo === '/books') {
-            return array (  '_controller' => 'Zero\\ZeroBundle\\Controller\\DefaultController::booksAction',  '_route' => 'zero_zero_books',);
+            return array (  '_controller' => 'Zero\\ZeroBundle\\Controller\\SiteController::booksAction',  '_route' => 'zero_zero_books',);
         }
 
         // _welcome

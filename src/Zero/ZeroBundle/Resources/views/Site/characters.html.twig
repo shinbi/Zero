@@ -1,0 +1,33 @@
+{% extends 'ZeroZeroBundle:Site:base.html.twig' %}
+
+{% block title %}Personnages{% endblock %}
+
+{% block sidebar %}{% include "ZeroZeroBundle:Site:parts/sidebar.html.twig" %}{% endblock %}
+
+{% block body %}
+    <h1>Liste des personnages</h1>
+    Cette section peut contenir des spoils. Il est conseillé d'avoir lu le roman avant d'y accéder.
+    <form>
+        Trier par : <input type="radio" name="sort" value="importance" /> importance
+        <input type="radio" name="sort" value="nom" /> nom
+        <input type="radio" name="sort" value="taille" /> taille
+        <input type="radio" name="sort" value="age" /> age
+    </form>
+    <ul>
+    {% for personnage in personnages %}
+
+       <li><a href="{{ path('zero_zero_show_characters',{ 'id': personnage.getId() }) }}">
+               <img src="{{ asset('bundles/zerozero/images/' ~ personnage.getId() ~ '.png') }}" width="150"/>
+           </a>
+            <a href="{{ path('zero_zero_show_characters',{ 'id': personnage.getId() }) }}">
+                {{ personnage.getNom() }}
+            </a><br />
+                {% if personnage.principal %}
+                    Personnage principal
+                {% else %}
+                    Personnage secondaire
+                {% endif %}
+       </li>
+    {% endfor %}
+    </ul>
+{% endblock %}

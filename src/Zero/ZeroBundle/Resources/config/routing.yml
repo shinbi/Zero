@@ -1,13 +1,13 @@
 zero_zero_homepage:
     path:     /index
-    defaults: { _controller: ZeroZeroBundle:Default:index }
+    defaults: { _controller: ZeroZeroBundle:Site:index }
 zero_zero_characters:
     path:     /characters
-    defaults: { _controller: ZeroZeroBundle:Default:characters }
+    defaults: { _controller: ZeroZeroBundle:Site:characters }
 zero_zero_show_characters:
     path:     /character/{id}
-    defaults: { _controller: ZeroZeroBundle:Default:showCharacter }
+    defaults: { _controller: ZeroZeroBundle:Site:showCharacter }
 zero_zero_books:
     path:     /books
-    defaults: { _controller: ZeroZeroBundle:Default:books }
+    defaults: { _controller: ZeroZeroBundle:Site:books }
 

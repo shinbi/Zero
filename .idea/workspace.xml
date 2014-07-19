@@ -23,91 +23,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DefaultController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Controller/DefaultController.php">
+      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/config/routing.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="11" selection-start="865" selection-end="865" vertical-scroll-proportion="0.0" vertical-offset="302" max-vertical-offset="1088">
+            <state line="13" column="0" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Roman.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Entity/Roman.php">
+      <file leaf-file-name="SiteController.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Controller/SiteController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="151" column="7" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.0" vertical-offset="2567" max-vertical-offset="2975">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="books.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/books.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="20" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="323">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="viewCharacter.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/viewCharacter.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="21" selection-start="3133" selection-end="3133" vertical-scroll-proportion="-32.03846" vertical-offset="408" max-vertical-offset="1581">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="characters.html.twig" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/characters.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="29" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.8594104" vertical-offset="29" max-vertical-offset="646">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="liste.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/public/js/liste.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="21" selection-start="850" selection-end="850" vertical-scroll-proportion="0.0" vertical-offset="122" max-vertical-offset="731">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/base.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="30" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page_head_script.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/page_head_script.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Personnage.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Entity/Personnage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="493" column="0" selection-start="7951" selection-end="7951" vertical-scroll-proportion="0.0" vertical-offset="8328" max-vertical-offset="9673">
+            <state line="10" column="23" selection-start="210" selection-end="210" vertical-scroll-proportion="0.38548753" vertical-offset="0" max-vertical-offset="1088">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="page_head_style.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/page_head_style.html.twig">
+        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/parts/page_head_style.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="153">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/parts/sidebar.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="30" selection-start="603" selection-end="603" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="391">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="books.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/books.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="323">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="characters.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/characters.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="646">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="viewCharacter.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/viewCharacter.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="39" selection-start="3278" selection-end="3278" vertical-scroll-proportion="-5.8461537" vertical-offset="1140" max-vertical-offset="1581">
               <folding />
             </state>
           </provider>
@@ -133,10 +124,8 @@
         <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/sidebar.html.twig" />
         <option value="$PROJECT_DIR$/app/config/parameters.yml" />
         <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/viewCharacters.html.twig" />
-        <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/books.html.twig" />
         <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Entity/Roman.php" />
-        <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Entity/Personnage.php" />
         <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/base.html.twig" />
         <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/page_head_script.html.twig" />
@@ -145,6 +134,14 @@
         <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/page_head_style.html.twig" />
         <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/public/css/style.css" />
         <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/characters.html.twig" />
+        <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/base.html.twig" />
+        <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/characters.html.twig" />
+        <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/books.html.twig" />
+        <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/viewCharacter.html.twig" />
+        <option value="$PROJECT_DIR$/src/Zero/ZeroBundle/Controller/SiteController.php" />
       </list>
     </option>
   </component>
@@ -345,7 +342,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Default" />
+              <option name="myItemId" value="Site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zero" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZeroBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -597,6 +632,10 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\Symfony\src\Zero\ZeroBundle\Resources\views\Site" />
+      <recent name="C:\wamp\www\Symfony\src\Zero\ZeroBundle\Resources\views\Site\parts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp\www\Symfony\src\Zero\ZeroBundle\Resources\public\css" />
       <recent name="C:\wamp\www\Symfony\src\Zero\ZeroBundle\Resources\public\images" />
@@ -629,15 +668,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="842" extended-state="7" />
+    <frame x="-8" y="-8" width="1552" height="842" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27808988" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23962517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24631861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27808988" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -646,7 +686,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15102041" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -669,16 +708,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="65" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="323" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="26" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="391" />
@@ -686,38 +715,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="34" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="646">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/sidebar.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="57" selection-start="81" selection-end="113" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="9" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="816">
-          <folding />
-        </state>
+        <state line="24" column="34" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="646" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/ZeroZeroBundle.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/viewCharacter.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/characters.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
@@ -734,34 +737,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="34" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="646">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="6" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="323" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/page_head_style.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="43" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="136" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/sidebar.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238" />
+        <state line="24" column="34" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="646" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sdz/BlogBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="186" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/config/routing.yml">
@@ -769,26 +750,9 @@
         <state line="6" column="15" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="272" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="16" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/characters.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="89" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/sidebar.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="6" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="238" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sdz/BlogBundle/Resources/views/Default/index.html.twig">
@@ -796,36 +760,14 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="238" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="58" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="16" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/characters.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/books.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sdz/BlogBundle/Resources/config/services.yml">
@@ -875,87 +817,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="53" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="65" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/books.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="20" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="11" selection-start="865" selection-end="865" vertical-scroll-proportion="0.0" vertical-offset="302" max-vertical-offset="1088">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="30" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/sidebar.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="57" selection-start="81" selection-end="113" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Entity/Personnage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="493" column="0" selection-start="7951" selection-end="7951" vertical-scroll-proportion="0.0" vertical-offset="8328" max-vertical-offset="9673">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/page_head_script.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
+        <state line="493" column="0" selection-start="7951" selection-end="7951" vertical-scroll-proportion="0.114718616" vertical-offset="8328" max-vertical-offset="9673">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/public/js/liste.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="21" selection-start="850" selection-end="850" vertical-scroll-proportion="0.0" vertical-offset="122" max-vertical-offset="731">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/page_head_style.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
+        <state line="31" column="21" selection-start="850" selection-end="850" vertical-scroll-proportion="0.829918" vertical-offset="122" max-vertical-offset="731">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+        <state line="4" column="17" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/parts/page_head_script.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="467">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/viewCharacter.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/parts/page_head_style.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="21" selection-start="3133" selection-end="3133" vertical-scroll-proportion="-32.03846" vertical-offset="408" max-vertical-offset="1581">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="488">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Default/characters.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/parts/sidebar.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="29" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.8594104" vertical-offset="29" max-vertical-offset="646">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="488">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="30" selection-start="603" selection-end="603" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/books.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="441">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/characters.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="441">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/views/Site/viewCharacter.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="39" selection-start="3278" selection-end="3278" vertical-scroll-proportion="-5.8461537" vertical-offset="1140" max-vertical-offset="1581">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zero/ZeroBundle/Controller/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="23" selection-start="210" selection-end="210" vertical-scroll-proportion="0.38548753" vertical-offset="0" max-vertical-offset="1088">
           <folding />
         </state>
       </provider>
